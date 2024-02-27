@@ -1,5 +1,5 @@
 ![logo](https://github.com/RosiReddyG/RosiReddyG/blob/main/ROSI%20G.png)
-<p align="left">I am a DevOps Engineer at Toyota Motors, where I automate and manage the infrastructure and deployment of critical applications using Python and AWS. I have 7 years of industry experience in delivering fault-tolerant, highly available, and scalable cloud solutions using DevOps practices and tools such as Terraform, Kubernetes, Docker, Jenkins, and Ansible. 
+<p align="left">I am a DevOps Engineer at Toyota Motors, where I automate and manage the infrastructure and deployment of critical applications using Python and AWS. I have 8+years of industry experience in delivering fault-tolerant, highly available, and scalable cloud solutions using DevOps practices and tools such as Terraform, Kubernetes, Docker, Jenkins, and Ansible. 
 </p>
 
 ###
